@@ -71,9 +71,9 @@ http://localhost:8890
 ## 常见问题
 
 <details>
-<summary><b>Q: 为什么选择gemini-3生图模型报错？</b></summary>
+<summary><b>Q: 为什么选择我的自定义生图模型报错？</b></summary>
 
-A: gemini-3参数格式有些不一样，暂时还没做兼容
+A: 当前需要模型支持OpenAI API通用参数格式
 
 </details>
 
