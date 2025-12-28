@@ -82,6 +82,7 @@ A: gemini-3参数格式有些不一样，暂时还没做兼容
 
 A: 图片元素如果比较多比较复杂，可能会导致不稳定，影响到其不需要编辑修改的位置。
 
+</details>
 
 ## 贡献指南
 
@@ -132,13 +133,4 @@ A: 图片元素如果比较多比较复杂，可能会导致不稳定，影响�
 ## 🌟 Star History
 
 如果这个项目对你有帮助，请给一个 ⭐ Star 支持一下！
-
-<a href="https://star-history.com/#hugohe3/ppt-master&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hugohe3/ppt-master&type=Date" />
- </picture>
-</a>
-
 ---
